@@ -9,5 +9,5 @@
 <li>Public Tableau account is created. 
 <br/>
 Above csv file is uploaded to my profile and saved.
-<a href:"https://public.tableau.com/authoring/CityBike1_16977712384520/Sheet1#1"> Click here for link to Tableau</a>
+Link to Tableau: https://public.tableau.com/authoring/CityBike1_16977712384520/Sheet1#1 
 </li>
