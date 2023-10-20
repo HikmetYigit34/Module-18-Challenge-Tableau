@@ -1,0 +1,5 @@
+202301-citibike-tripdata.csv
+can be downloaded from here:
+https://s3.amazonaws.com/tripdata/index.html
+
+Downloaded file is used to create visualizations in Tableau.
